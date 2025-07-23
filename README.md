@@ -35,6 +35,7 @@ A Python-based SSH botnet command-and-control system, designed **for educational
 ├── botnet.json         # Auto-generated file storing bot details
 └── README.md           # Documentation
 ```
+---
 
 ## 🧩 Dependencies
 
@@ -44,6 +45,9 @@ A Python-based SSH botnet command-and-control system, designed **for educational
 | `pexpect`   | To handle SSH interaction via `pxssh`             |
 | `colorama`  | For colorful terminal outputs                     |
 
+
+---
+
 ### 📦 Installation
 
 Install all dependencies using pip:
@@ -51,7 +55,7 @@ Install all dependencies using pip:
 ```bash
 pip install scapy pexpect colorama
 ```
-
+---
 
 ## 🚀 Usage
 
@@ -72,7 +76,7 @@ sudo python3 botnet.py
 
 > ⚠️ `sudo` is required for packet crafting with **Scapy**.
 
-
+---
 
 ## 📋 Menu Options (Detailed)
 
@@ -140,7 +144,7 @@ The tool will attempt to establish an SSH session via `pxssh`.
 
 ### 5. DDOS  
 > 🚨 **For testing purposes only.**  
-> Use only on authorized systems like the included `test_server.py`.
+> Use only on authorized systems like the included `server.py`.
 
 Launches various packet-based DDoS attacks using **Scapy** and raw sockets.
 
@@ -164,3 +168,26 @@ Launches various packet-based DDoS attacks using **Scapy** and raw sockets.
 - Saves the current botnet configuration to `botnet.json`  
 - Gracefully closes all SSH sessions  
 - Exits the application
+
+## 📸 Screenshot
+
+> Example output from the Botnet Control Panel:
+
+![Screenshot](assets/demo.png)
+
+> *(Add your screenshot to the `/assets` folder or project root and update the path accordingly.)*
+
+
+
+## 👨‍💻 Author
+
+**Kasula Shiva**  
+🎓 B.Tech in CSE (Cybersecurity)  
+📧 Email: [shivakasula10@gmail.com](mailto:shivakasula10@gmail.com)  
+🔗 [GitHub](https://github.com/shivakasula48)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shiva-kasula-1b0064288)
+
+
+
+
+
