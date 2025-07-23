@@ -175,7 +175,9 @@ Launches various packet-based DDoS attacks using **Scapy** and raw sockets.
 
 > Example output from the Botnet Control Panel:
 
-
+![Image](https://github.com/user-attachments/assets/8ffecc58-1e15-48ef-9809-3e70faf3557a)
+![Image](https://github.com/user-attachments/assets/6bf54e65-2fea-492d-bc57-c6a925aafcdc)
+![Image](https://github.com/user-attachments/assets/3d44416e-f79b-4f96-9b16-32b24818d605)
 
 
 ---
