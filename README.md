@@ -169,7 +169,7 @@ Launches various packet-based DDoS attacks using **Scapy** and raw sockets.
 - Gracefully closes all SSH sessions  
 - Exits the application
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 > Example output from the Botnet Control Panel:
 
@@ -185,9 +185,25 @@ Launches various packet-based DDoS attacks using **Scapy** and raw sockets.
 🎓 B.Tech in CSE (Cybersecurity)  
 📧 Email: [shivakasula10@gmail.com](mailto:shivakasula10@gmail.com)  
 🔗 [GitHub](https://github.com/shivakasula48)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shiva-kasula-1b0064288)
+🔗 [LinkedIn](https://www.linkedin.com/in/shiva-kasula-1b0064288)](https://github.com/shivakasula48/Subdomain-Enumeration-)
 
 
+## 🔒 Use Responsibly
+
+This tool is intended for **learning, research, and authorized testing** only.  
+Never use it without explicit permission on networks or systems you do not own.
+
+---
+
+## 🙋‍♂️ Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit pull requests.
+
+1. Fork the repository  
+2. Create your branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -am 'Add new feature'`)  
+4. Push to the branch (`git push origin feature-name`)  
+5. Open a Pull Request  
 
 
 
