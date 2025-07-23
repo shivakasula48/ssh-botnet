@@ -46,15 +46,7 @@ A Python-based SSH botnet command-and-control system, designed **for educational
 | `colorama`  | For colorful terminal outputs                     |
 
 
----
 
-### 📦 Installation
-
-Install all dependencies using pip:
-
-```bash
-pip install scapy pexpect colorama
-```
 ---
 
 ## 🚀 Usage
