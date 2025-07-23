@@ -169,15 +169,16 @@ Launches various packet-based DDoS attacks using **Scapy** and raw sockets.
 - Gracefully closes all SSH sessions  
 - Exits the application
 
+---
+
 ## 📸 Screenshots
 
 > Example output from the Botnet Control Panel:
 
-![Screenshot](assets/demo.png)
-
-> *(Add your screenshot to the `/assets` folder or project root and update the path accordingly.)*
 
 
+
+---
 
 ## 👨‍💻 Author
 
@@ -185,7 +186,8 @@ Launches various packet-based DDoS attacks using **Scapy** and raw sockets.
 🎓 B.Tech in CSE (Cybersecurity)  
 📧 Email: [shivakasula10@gmail.com](mailto:shivakasula10@gmail.com)  
 🔗 [GitHub](https://github.com/shivakasula48)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shiva-kasula-1b0064288)](https://github.com/shivakasula48/Subdomain-Enumeration-)
+
+---
 
 
 ## 🔒 Use Responsibly
