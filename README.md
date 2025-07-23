@@ -211,3 +211,11 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
 
 
+
+# License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
+
+
+
